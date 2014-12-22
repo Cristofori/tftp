@@ -1,3 +1,8 @@
+An in-memory implementation of a TFTP server written in Go.
+
+This code was written purely for academic purposes and is not intended to be
+production-ready or even particularly useful.
+
 Build instructions (linux/osx)
 ==============================
 * Extract files into $GOPATH/src/
