@@ -1,0 +1,7 @@
+Build instructions (linux/osx)
+==============================
+* Extract files into $GOPATH/src/
+* From $GOPATH run "go build tftp"
+
+To run:
+sudo ./tftp
